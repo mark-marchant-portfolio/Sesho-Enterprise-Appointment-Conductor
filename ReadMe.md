@@ -1,5 +1,5 @@
 # Sesho Enterprise Appointment Conductor
-[Live Deployed App](http://sesho.app)
+[Click here to see the live app](http://sesho.app)
 ![alt text](/proofs/Sesho_Enterprise_Appointment_Conductor.png)
 
 
